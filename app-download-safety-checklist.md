@@ -31,6 +31,7 @@ These related public notes help readers compare sources, permissions, and update
 - App Recommendation Notes Work Better With a Source Checklist Nearby: https://appguide5.wordpress.com/2026/05/20/app-recommendation-notes-work-better-with-a-source-checklist-nearby/
 - Best App Roundups Need Clear Links to Source and Permission Notes: https://bestapp99.wordpress.com/2026/05/20/best-app-roundups-need-clear-links-to-source-and-permission-notes/
 - Utility App Notes: Connect Permission Reviews With Source Records: https://bestmobi2.wordpress.com/2026/05/20/utility-app-notes-connect-permission-reviews-with-source-records/
+- A Small Interlink Map for Safer App Download Source Checks: https://dev.to/kay_gz_37b0d342c5f3c5aa4c/a-small-interlink-map-for-safer-app-download-source-checks-250n
 
 ## Disclosure
 
