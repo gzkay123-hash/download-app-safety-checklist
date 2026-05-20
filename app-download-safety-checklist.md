@@ -26,6 +26,11 @@ These related public notes help readers compare sources, permissions, and update
 - 做 App 推荐时，为什么要先写清楚下载来源: https://bestmobileapps8.blogspot.com/2026/05/app_01262242760.html
 - APK Mirror Pages: A Calm Checklist Before You Trust a File: https://appdown46.wordpress.com/2026/05/19/apk-mirror-pages-a-calm-checklist-before-you-trust-a-file/
 - How to Keep an App Recommendation List Useful Over Time: https://appguide5.wordpress.com/2026/05/19/how-to-keep-an-app-recommendation-list-useful-over-time/
+- A Small Interlink Map for Safer App Download Research: https://app1057.wordpress.com/2026/05/20/a-small-interlink-map-for-safer-app-download-research/
+- APK Source Research: When to Use a Second Buffer Page Before Trusting a File: https://appdown46.wordpress.com/2026/05/20/apk-source-research-when-to-use-a-second-buffer-page-before-trusting-a-file/
+- App Recommendation Notes Work Better With a Source Checklist Nearby: https://appguide5.wordpress.com/2026/05/20/app-recommendation-notes-work-better-with-a-source-checklist-nearby/
+- Best App Roundups Need Clear Links to Source and Permission Notes: https://bestapp99.wordpress.com/2026/05/20/best-app-roundups-need-clear-links-to-source-and-permission-notes/
+- Utility App Notes: Connect Permission Reviews With Source Records: https://bestmobi2.wordpress.com/2026/05/20/utility-app-notes-connect-permission-reviews-with-source-records/
 
 ## Disclosure
 
