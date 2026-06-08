@@ -62,3 +62,18 @@ A second set of DownloadAppGuide references focuses on productivity and reading 
 
 These references are meant for source verification and account/permission review, not for APK mirror promotion.
 
+## Kaiyun Sports app download-entry source checks (2026-06-09)
+
+This section is a source-verification checklist for Chinese searches such as `开云体育app`, `开云体育app下载`, and `开云体育官网入口`. It is not an APK mirror and does not provide cracked, internal, bypass, or unverified backup download links.
+
+Recommended reading path:
+
+- [开云体育app 下载入口核对页](https://downloadappguide.com/software/kaiyun-sports-app) - main DownloadAppGuide page for app-entry/source checks.
+- [开云体育入口与 APP 下载怎么核对](https://downloadappguide.com/news/kaiyun-sports-entry-and-app-download-check) - website, Android, iOS, and fake-page checks.
+- [开云体育App下载常见问题](https://downloadappguide.com/news/kaiyun-sports-app-download-ranking-faq) - entry, safety, region status, and third-party APK risk.
+- [开云体育官网入口和仿冒页面怎么区分](https://downloadappguide.com/news/kaiyun-sports-official-site-vs-fake-pages) - domain, button, privacy-policy, and support-channel checks.
+- [APP 安全下载指南](https://downloadappguide.com/download-safety) - general app-source safety principles.
+- [GitHub Pages app safety resource map](https://gzkay123-hash.github.io/app-download-safety-resources.html) - companion resource hub.
+
+Anchor guidance: use source-check phrasing such as `开云体育app 下载入口核对页` or `APP 下载来源检查清单`, not repeated exact-match install/download anchors.
+
