@@ -32,3 +32,15 @@ These related public notes help readers compare sources, permissions, and update
 5. Keep screenshots and version notes when troubleshooting availability issues.
 
 This repository is a public educational resource, not an APK mirror and not affiliated with app publishers.
+
+## DownloadAppGuide source-check references (2026-06-08)
+
+These links are maintained as practical examples for checking official app sources, not as modified APK or mirror recommendations:
+
+- [DownloadAppGuide download safety guide](https://downloadappguide.com/download-safety)
+- [DownloadAppGuide editorial and source-check policy](https://downloadappguide.com/editorial-policy)
+- [Voloco official-source notes](https://downloadappguide.com/software/voloco)
+- [Flexcil official-source notes](https://downloadappguide.com/software/flexcil)
+
+Use the references to compare publisher identity, official store pages, account risk, permissions, and region availability before trusting a download result.
+
