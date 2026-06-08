@@ -44,3 +44,17 @@ These links are maintained as practical examples for checking official app sourc
 
 Use the references to compare publisher identity, official store pages, account risk, permissions, and region availability before trusting a download result.
 
+## Productivity and reading-app source examples (2026-06-08)
+
+A second set of DownloadAppGuide references focuses on productivity and reading apps where users often need to check official store entries, publisher identity, subscriptions, and regional availability:
+
+- [DownloadAppGuide download safety guide](https://downloadappguide.com/download-safety)
+- [DownloadAppGuide editorial/source-check policy](https://downloadappguide.com/editorial-policy)
+- [Slack official-source review notes](https://downloadappguide.com/software/slack)
+- [Microsoft Excel official-source review notes](https://downloadappguide.com/software/microsoft-excel)
+- [Libby official-source review notes](https://downloadappguide.com/software/libby)
+- [Storytel official-source review notes](https://downloadappguide.com/software/storytel)
+- [DownloadAppGuide app safety Google Sites resource](https://sites.google.com/view/downloadappguide-app-safety/)
+
+These references are meant for source verification and account/permission review, not for APK mirror promotion.
+
