@@ -77,3 +77,13 @@ Recommended reading path:
 
 Anchor guidance: use source-check phrasing such as `开云体育app 下载入口核对页` or `APP 下载来源检查清单`, not repeated exact-match install/download anchors.
 
+## 开云体育app Blogspot source-check notes (2026-06-09)
+
+These Blogspot buffer notes document official-entry, Android APK, iOS/Android availability, fake-page and account-safety checks. They are discovery/citation resources, not APK mirrors.
+
+- [开云体育app 下载入口核对：官网、安卓 iOS 和第三方 APK 风险](https://appdown8.blogspot.com/2026/06/app-ios-apk.html) — appdown8.blogspot.com
+- [开云体育app 官网入口怎么核对：域名、客服与隐私政策清单](https://pzh5.blogspot.com/2026/06/app_01404638576.html) — pzh5.blogspot.com
+- [开云体育app 安卓 APK 风险：为什么不建议直接找第三方安装包](https://app1029.blogspot.com/2026/06/app-apk.html) — app1029.blogspot.com
+- [开云体育app iOS 与安卓可用性：商店、地区和仿冒页面检查](https://bestmobileapps8.blogspot.com/2026/06/app-ios.html) — bestmobileapps8.blogspot.com
+- [开云体育官网入口防仿冒：下载前应核对的 7 个信号](https://mobiapps2.blogspot.com/2026/06/7.html) — mobiapps2.blogspot.com
+
