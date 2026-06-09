@@ -86,4 +86,17 @@ These Blogspot buffer notes document official-entry, Android APK, iOS/Android av
 - [开云体育app 安卓 APK 风险：为什么不建议直接找第三方安装包](https://app1029.blogspot.com/2026/06/app-apk.html) — app1029.blogspot.com
 - [开云体育app iOS 与安卓可用性：商店、地区和仿冒页面检查](https://bestmobileapps8.blogspot.com/2026/06/app-ios.html) — bestmobileapps8.blogspot.com
 - [开云体育官网入口防仿冒：下载前应核对的 7 个信号](https://mobiapps2.blogspot.com/2026/06/7.html) — mobiapps2.blogspot.com
+## Authority sprint official-source references (2026-06-10)
 
+- [DownloadAppGuide app download source hub](https://downloadappguide.com/)
+- [DownloadAppGuide download safety guide](https://downloadappguide.com/download-safety)
+- [DownloadAppGuide editorial/source-check policy](https://downloadappguide.com/editorial-policy)
+- [OCBC Digital Android and iOS official-source notes](https://downloadappguide.com/software/ocbc-digital)
+- [MEGA app official source and cloud-permission notes](https://downloadappguide.com/software/mega)
+- [Google Pay / Google Wallet iOS availability notes](https://downloadappguide.com/software/google-pay)
+- [X / Twitter install troubleshooting notes](https://downloadappguide.com/software/x-twitter)
+
+Companion buffers:
+- [Download app safety checklist repository](https://github.com/gzkay123-hash/download-app-safety-checklist)
+- [Compact app-source checklist gist](https://gist.github.com/gzkay123-hash/de2a5b5763f7f0045c66ffde83e11362)
+- [App download safety resource map](https://gzkay123-hash.github.io/app-download-safety-resources.html)
